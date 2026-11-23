@@ -1,0 +1,19 @@
+{
+  "deterministic_routes": {
+    "imagenes/galeria": "imagenes/galeria/fotos"
+  },
+  "university_institution_keywords": [
+    "mi_universidad",
+    "facultad_ejemplo"
+  ],
+  "destinations": {
+    "programas": "descargas/programas",
+    "comprimidos": "descargas/comprimidos(zip,rar,etc)",
+    "descomprimidos": "descargas/descomprimidos",
+    "pdfs": "documentos/PDFs",
+    "words": "documentos/WordS",
+    "universidad": "documentos/Universidad",
+    "mallas": "documentos/Universidad/Mallas Curriculares",
+    "cursores": "documentos/Mi_Cursor"
+  }
+}
