@@ -1,4 +1,4 @@
-# Organizador Jerárquico Local de Archivos con IA
+# OrgaIAnizer — Organizador Jerárquico Local de Archivos con IA
 
 Sistema local de clasificación y organización automática de archivos para Windows (y Python multiplataforma) que combina:
 * **Visión por Computadora Jerárquica (`TensorFlow / MobileNetV2`):** clasifica imágenes (`.jpg`, `.jpeg`, `.png`, `.webp`, `.gif`) y videos (`.mp4`) con extracción de fotogramas, preprocesamiento *letterbox* (preserva relación de aspecto) y votación entre frames.
@@ -16,8 +16,8 @@ Sistema local de clasificación y organización automática de archivos para Win
 ### Instalación
 
 ```powershell
-git clone <URL_DE_TU_REPOSITORIO>
-cd <CARPETA_DEL_REPOSITORIO>
+git clone https://github.com/Deodraus/OrgaIAnizer.git
+cd OrgaIAnizer
 
 # (Recomendado) Crear entorno virtual
 python -m venv .venv
